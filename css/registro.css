@@ -1,0 +1,86 @@
+body{
+	background: rgb(64, 224, 208,0.2);
+	font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+	width: 500px;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 8px;
+	background: #00FF7F;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#content{
+
+	background: #98FB98 ;
+	min-height: 450px;
+	border-radius: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 2px solid #04BD00;
+}
+.input-48{
+	width: 70%;
+	height: 50px;
+	float: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	border: 1px solid black;
+}
+
+hr{
+	float: center;
+	width: 70%;
+}
+h2{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	
+}
+p{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+
+}
+.btn-enviar{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #fff;
+	width: 30%;
+	height: 50px;
+	background: #399EFC;
+	border: 0px;
+	font-size: 17px;
+}
+.btn-enviar:hover{
+	background-color: #25BFD5;
+}
+.a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+}
+li{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #fff;
+	width: 150px;
+	height: 50px;
+	background: #399EFC;
+	border: 0px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+}
+li:hover{
+	background-color: #25BFD5;
+}
+.boton{
+	width:	 150px;
+	height: 51px;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 0px;
+	background-color:  #399EFC;
+	font-size: 17px;
+	color: white;
+}
+.boton:hover{
+	background-color: #25BFD5;
+}
